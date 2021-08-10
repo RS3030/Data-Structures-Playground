@@ -1,5 +1,6 @@
 import ctypes
 
+
 # Dynamic array is an array that automatically resize(increase) the capacity as per my need.
 # Built-in array in Python is dynamic array
 #
